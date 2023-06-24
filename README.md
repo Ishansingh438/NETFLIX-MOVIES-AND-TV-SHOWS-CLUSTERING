@@ -1,7 +1,5 @@
 # NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING
 
-                  ![image](https://github.com/Ishansingh438/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/assets/105629591/cc5a0085-5cb4-4081-99b5-27369506cf89)
-
 
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine.
 
